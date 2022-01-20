@@ -4,5 +4,4 @@ This repository contains exercise solutions for the [Intermediate Research Softw
 
 This repository is a copy of the [template software project repository](https://github.com/carpentries-incubator/python-intermediate-inflammation) with all the course's exercises filled in with reference solutions - each tag on this repository represents the state that the software project should be at the end of a particular episode.
 
-Note that, while the course recommends working on the development and various other feature branches during exercises, this repository contains only a single branch (`main`) and 
-tags to point to the state of the code that the software project should be at the end of the each episode of the course.
+Note that, while the course recommends working on the development and various other feature branches during exercises, this repository contains only a single branch (`main`) where tagged snapshots of the software project have been created.
